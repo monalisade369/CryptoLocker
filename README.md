@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/9052c1d1-26ad-43bd-a70f-e0892b1f52d4)
 
+<u><h2>𝑾𝒉𝒚 𝒎𝒆 </h2></u>
 <i>This project is built with java programming. It uses the concept of symmetric Key Cryptography to encrypt and decrypt your files</i> 🔐<i>. Make sure to make your files secure in this digital world because with the increase in cyber attacks it has become difficult to protect the confidentiality of our documents.</i>📃<i>So make sure to protect your information from unwanted access.</i>🔑
 
 <u><h2>𝕽𝖊𝖖𝖚𝖎𝖗𝖊𝖒𝖊𝖓𝖙𝖘</h2></u>
